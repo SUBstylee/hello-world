@@ -4,5 +4,3 @@
 List of repositories:
 
 0:hello-world
-
-1:CSS projects
